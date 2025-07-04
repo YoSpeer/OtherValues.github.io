@@ -1,2 +1,2 @@
-# 3Axes
-3axes is an unofficial modification of Sapplyvalues
+# Othervalues
+Othervalues is an unofficial modification of Sapplyvalues
