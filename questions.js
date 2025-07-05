@@ -14,7 +14,7 @@ questions =  [
     {"id": 12, "question": "A government that provides for everyone is an inherently good idea.", "effects": {"right": -1}},
     {"id": 13, "question": "The current welfare system should be expanded to further combat inequality.", "effects": {"right": -1}},
     {"id": 14, "question": "Land should not be a commodity to be bought and sold.", "effects": {"right": -1}},
-    {"id": 15, "question": "All industry and the bank should be nationalised.", "effects": {"right": -1}},
+    {"id": 15, "question": "All industry should be nationalised.", "effects": {"right": -1}},
     {"id": 16, "question": "Class is the primary division of society.", "effects": {"right": -1}},
     {"id": 17, "question": "Economic inequality is too high in the world.", "effects": {"right": -1}},
     {"id": 18, "question": "Opression by corporations is more of a concern than oppression by the government.", "effects": {"right": -1}},
